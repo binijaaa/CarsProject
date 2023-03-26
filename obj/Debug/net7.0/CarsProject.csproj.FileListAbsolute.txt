@@ -1,0 +1,15 @@
+C:\Users\Sabine\VisualStudio\Lecture13\CarsProject\bin\Debug\net7.0\CarsProject.exe
+C:\Users\Sabine\VisualStudio\Lecture13\CarsProject\bin\Debug\net7.0\CarsProject.deps.json
+C:\Users\Sabine\VisualStudio\Lecture13\CarsProject\bin\Debug\net7.0\CarsProject.runtimeconfig.json
+C:\Users\Sabine\VisualStudio\Lecture13\CarsProject\bin\Debug\net7.0\CarsProject.dll
+C:\Users\Sabine\VisualStudio\Lecture13\CarsProject\bin\Debug\net7.0\CarsProject.pdb
+C:\Users\Sabine\VisualStudio\Lecture13\CarsProject\obj\Debug\net7.0\CarsProject.csproj.AssemblyReference.cache
+C:\Users\Sabine\VisualStudio\Lecture13\CarsProject\obj\Debug\net7.0\CarsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sabine\VisualStudio\Lecture13\CarsProject\obj\Debug\net7.0\CarsProject.AssemblyInfoInputs.cache
+C:\Users\Sabine\VisualStudio\Lecture13\CarsProject\obj\Debug\net7.0\CarsProject.AssemblyInfo.cs
+C:\Users\Sabine\VisualStudio\Lecture13\CarsProject\obj\Debug\net7.0\CarsProject.csproj.CoreCompileInputs.cache
+C:\Users\Sabine\VisualStudio\Lecture13\CarsProject\obj\Debug\net7.0\CarsProject.dll
+C:\Users\Sabine\VisualStudio\Lecture13\CarsProject\obj\Debug\net7.0\refint\CarsProject.dll
+C:\Users\Sabine\VisualStudio\Lecture13\CarsProject\obj\Debug\net7.0\CarsProject.pdb
+C:\Users\Sabine\VisualStudio\Lecture13\CarsProject\obj\Debug\net7.0\CarsProject.genruntimeconfig.cache
+C:\Users\Sabine\VisualStudio\Lecture13\CarsProject\obj\Debug\net7.0\ref\CarsProject.dll
